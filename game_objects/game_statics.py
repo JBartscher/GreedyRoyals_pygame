@@ -1,0 +1,7 @@
+""" static "global" config Variables """
+SCREENWIDTH = 480
+SCREENHEIGHT = 360
+FPS = 120
+frames = int(FPS / 12)
+INITIAL_TIME = 30
+WINDOW_SIZE = (SCREENWIDTH, SCREENHEIGHT)
